@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JimChw2021.  I'm a retired developer now looking at personal hobby/retirement development.
+- 👀 I’m interested in desktop, single-user apps.  I enjoy reading code.  I'm not interested in another job.
+- 🌱 I’m currently learning WinUI and SQLite.
+- 💞️ I’m looking to collaborate on Music Cataloging and Music Display apps.
+- 📫 How to reach me: JimChw (at) charter (dot) net
